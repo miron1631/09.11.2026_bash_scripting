@@ -1,0 +1,1 @@
+# 09.11.2026_bash_scripting
